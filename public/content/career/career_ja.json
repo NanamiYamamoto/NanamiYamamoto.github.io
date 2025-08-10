@@ -19,5 +19,15 @@
     "description": "",
     "type": "education"
   }
+  {
+    "id": "career-3",
+    "position": "リサーチアシスタント",
+    "organization": "東京大学",
+    "location": "東京、日本",
+    "startDate": "2025",
+    "endDate": null,
+    "description": "",
+    "type": "assistant"
+  }
  
 ]
