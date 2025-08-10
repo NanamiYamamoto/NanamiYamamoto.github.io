@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Development of low-electron-dose observation method for 2D materials based on OBF STEM",
+    "titleJa": "OBF STEM法に基づく２次元物質の低電子ドーズ観察法の開発",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",
+    "conference": "The 80th Annual Meeting of the Japanese Society of Microscopy",
+    "conferenceJa": "日本顕微鏡学会第80回学術講演会",
+    "date": "2024年6月",
+    "year": "2024",
+    "place": "Chiba",
+    "placeJa": "千葉市",
+    "isInvited": false
+  },
+  {
+    "id": "2",
+    "title": "Development of OBF STEM method under low accelerating voltage using a pixelated detector",
+    "titleJa": "ピクセル型検出器を用いた低加速条件でのOBF STEM法の開発",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",
+    "conference": "Young Researchers Symposium of the Japanese Society of Microscopy",
+    "conferenceJa": "日本顕微鏡学会若手シンポジウム",
+    "date": "2024年10月",
+    "year": "2024",
+    "place": "Kasuga",
+    "placeJa": "春日市",
+    "isInvited": false
+  },
+  {
+    "id": "3",
+    "title": "Improvement of OBF STEM method under low accelerating voltage by considering chromatic aberration",
+    "titleJa": "色収差考慮による低加速条件でのOBF STEM法の改良",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",
+    "conference": "The 67th Symposium of the Japanese Society of Microscopy",
+    "conferenceJa": "日本顕微鏡学会第67回シンポジウム",
+    "date": "2024年11月",
+    "year": "2024",
+    "place": "Sapporo",
+    "placeJa": "札幌市",
+    "isInvited": false
+  }
+]
