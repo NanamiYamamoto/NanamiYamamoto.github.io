@@ -1,2 +1,12 @@
 presentations
 ID,タイトル(英語),タイトル(日本語),講演者(英語),講演者(日本語),会議名(英語),会議名(日本語),発表年月日,開催地(英語),開催地(日本語),招待の有無
+1,Development of low-electron-dose observation method for 2D materials based on OBF STEM,OBF STEM法に基づく２次元物質の低電子ドーズ観察法の開発,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata","山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",The 80th Annual Meeting of the Japanese Society of Microscopy,日本顕微鏡学会第80回学術講演会,2024年6月,Chiba,千葉市,なし
+2,Development of OBF STEM method under low accelerating voltage using a pixelated detector,ピクセル型検出器を用いた低加速条件でのOBF STEM法の開発,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata","山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",Young Researchers Symposium of the Japanese Society of Microscopy,日本顕微鏡学会若手シンポジウム,2024年10月,Kasuga,春日市,なし
+3,Improvement of OBF STEM method under low accelerating voltage by considering chromatic aberration,色収差考慮による低加速条件でのOBF STEM法の改良,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata","山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",The 67th Symposium of the Japanese Society of Microscopy,日本顕微鏡学会第67回シンポジウム,2024年11月,Sapporo,札幌市,なし
+4,Development of OBF STEM method under the low accelerating voltage conditions by considering chromatic aberration,色収差を考慮した低加速条件下でのOBF STEM法の開発,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Naoya Shibata","山本七海, 埜上満, 関岳人, 柴田直哉",Microscopy and Microanalysis 2025,Microscopy and Microanalysis 2025,2025年7月,Salt Lake City,ソルトレイクシティ,なし（口頭発表）
+5,Principle and applications of electron ptychography,電子線タイコグラフィーの原理と応用,Nanami Yamamoto,山本七海,The 24th Workshop on Crystal Interfaces,第24回結晶界面研究会,2025年9月,Hachioji,八王子市,なし
+6,Development of low-voltage OBF STEM,低加速OBF STEM法の開発,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Naoya Shibata","山本七海, 埜上満, 関岳人, 柴田直哉",2nd Advanced Electron Microscopy Workshop for Young Scientists,第2回先端電子顕微鏡若手ワークショップ,2025年3月,Tokyo,東京都,あり
+7,Development of OBF STEM method under low accelerating voltage by considering chromatic aberration,低加速条件下における色収差考慮OBF STEM法の開発,"Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata","山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",The 81st Annual Meeting of the Japanese Society of Microscopy,日本顕微鏡学会第81回学術講演会,2025年6月,Fukuoka,福岡市,なし
+
+
+
