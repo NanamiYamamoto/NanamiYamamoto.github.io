@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4",
+    "title": "Development of OBF STEM method under the low accelerating voltage conditions by considering chromatic aberration",
+    "titleJa": "色収差を考慮した低加速条件下でのOBF STEM法の開発",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 柴田直哉",
+    "conference": "Microscopy and Microanalysis 2025",
+    "conferenceJa": "Microscopy and Microanalysis 2025",
+    "date": "2025年7月",
+    "year": "2025",
+    "place": "Salt Lake City",
+    "placeJa": "ソルトレイクシティ",
+    "isInvited": false
+  },
+  {
+    "id": "5",
+    "title": "Principle and applications of electron ptychography",
+    "titleJa": "電子線タイコグラフィーの原理と応用",
+    "speakers": "Nanami Yamamoto",
+    "speakersJa": "山本七海",
+    "conference": "The 24th Workshop on Crystal Interfaces",
+    "conferenceJa": "第24回結晶界面研究会",
+    "date": "2025年9月",
+    "year": "2025",
+    "place": "Hachioji",
+    "placeJa": "八王子市",
+    "isInvited": false
+  },
+  {
+    "id": "6",
+    "title": "Development of low-voltage OBF STEM",
+    "titleJa": "低加速OBF STEM法の開発",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 柴田直哉",
+    "conference": "2nd Advanced Electron Microscopy Workshop for Young Scientists",
+    "conferenceJa": "第2回先端電子顕微鏡若手ワークショップ",
+    "date": "2025年3月",
+    "year": "2025",
+    "place": "Tokyo",
+    "placeJa": "東京都",
+    "isInvited": false
+  },
+  {
+    "id": "7",
+    "title": "Development of OBF STEM method under low accelerating voltage by considering chromatic aberration",
+    "titleJa": "低加速条件下における色収差考慮OBF STEM法の開発",
+    "speakers": "Nanami Yamamoto, Mitsuru Nogami, Takehito Seki, Yuichi Ikuhara, Naoya Shibata",
+    "speakersJa": "山本七海, 埜上満, 関岳人, 幾原雄一, 柴田直哉",
+    "conference": "The 81st Annual Meeting of the Japanese Society of Microscopy",
+    "conferenceJa": "日本顕微鏡学会第81回学術講演会",
+    "date": "2025年6月",
+    "year": "2025",
+    "place": "Fukuoka",
+    "placeJa": "福岡市",
+    "isInvited": false
+  }
+]

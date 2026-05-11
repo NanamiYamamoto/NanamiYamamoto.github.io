@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Excellent Presentation Award at the 24th Crystal Interface Research Meeting",
+    "titleJa": "第24回結晶界面研究会 優秀発表賞",
+    "awarder": "第24回結晶界面研究会",
+    "awarderJa": "The 24th Crystal Interface Research Meeting",
+    "year": "2024",
+    "month": "9月",
+    "isMainWork": false
+  },
+  {
+    "id": "2",
+    "title": " Development of OBF STEM method under the low accelerating voltage conditions by considering chromatic aberration",
+    "titleJa": "Poster Prize Award",
+    "awarder": "",
+    "awarderJa": "",
+    "year": "",
+    "month": "",
+    "isMainWork": false
+  }
+]
