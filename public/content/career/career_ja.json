@@ -28,6 +28,16 @@
     "endDate": null,
     "description": "",
     "type": "assistant"
+  },
+  {
+    "id": "career-4",
+    "position": "博士（工学）",
+    "organization": "東京大学",
+    "location": "東京、日本",
+    "startDate": "2026",
+    "endDate": null,
+    "description": "",
+    "type": "education"
   }
  
 ]
